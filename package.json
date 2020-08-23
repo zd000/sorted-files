@@ -4,6 +4,7 @@
 	"description": "",
 	"version": "1.0.0",
 	"publisher": "ZhenDong",
+	"repository": "https://github.com/zd000/sorted-files",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
